@@ -1,0 +1,5 @@
+com\recipes\controller\RecipesController.class
+com\recipes\service\RecipesService.class
+com\recipes\entity\Recipes.class
+com\recipes\RecipeApiApp.class
+com\recipes\repository\RecipeRepository.class

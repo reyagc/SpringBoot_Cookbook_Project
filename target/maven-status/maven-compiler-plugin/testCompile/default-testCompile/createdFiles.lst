@@ -1,0 +1,3 @@
+com\recipes\controller\RecipesControllerTest.class
+com\recipes\RecipeApiAppTests.class
+com\recipes\repository\RecipeRepositoryTest.class
